@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/lucasichen/lucasichen_profolio",
+  "homepage": "https://lucasichen.github.io/lucasichen_profolio",
   "name": "lucasichen_profolio",
   "version": "0.1.0",
   "private": false,
@@ -25,8 +25,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start .env",
     "build": "react-scripts build",
     "test": "react-scripts test",

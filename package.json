@@ -2,7 +2,7 @@
   "homepage": "https://lucasichen.github.io/lucasichen_profolio",
   "name": "lucasichen_profolio",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.6.2",
     "@fortawesome/free-brands-svg-icons": "^6.1.1",
@@ -26,6 +26,8 @@
   },
   "scripts": {
     "start": "react-scripts start .env",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"

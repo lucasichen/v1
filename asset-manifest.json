@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/lucasichen/lucasichen_profolio/static/css/main.f39c912e.css",
-    "main.js": "/lucasichen/lucasichen_profolio/static/js/main.dca85b40.js",
-    "static/js/787.ed93c80b.chunk.js": "/lucasichen/lucasichen_profolio/static/js/787.ed93c80b.chunk.js",
-    "static/media/logo-lc.png": "/lucasichen/lucasichen_profolio/static/media/logo-lc.279f0eae50f2049d37fc.png",
-    "static/media/helvetica-neu.ttf": "/lucasichen/lucasichen_profolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/LaBelleAurore.woff2": "/lucasichen/lucasichen_profolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/logo-s.png": "/lucasichen/lucasichen_profolio/static/media/logo-s.bfc9f81846bda5218dab.png",
-    "static/media/logo_sub-l.png": "/lucasichen/lucasichen_profolio/static/media/logo_sub-l.6cdac607636a26d6e164.png",
-    "static/media/CoolveticaRg-Regular.woff2": "/lucasichen/lucasichen_profolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/lucasichen/lucasichen_profolio/index.html",
-    "main.f39c912e.css.map": "/lucasichen/lucasichen_profolio/static/css/main.f39c912e.css.map",
-    "main.dca85b40.js.map": "/lucasichen/lucasichen_profolio/static/js/main.dca85b40.js.map",
-    "787.ed93c80b.chunk.js.map": "/lucasichen/lucasichen_profolio/static/js/787.ed93c80b.chunk.js.map"
+    "main.css": "/lucasichen_profolio/static/css/main.3bee5265.css",
+    "main.js": "/lucasichen_profolio/static/js/main.b947c24c.js",
+    "static/js/787.ed93c80b.chunk.js": "/lucasichen_profolio/static/js/787.ed93c80b.chunk.js",
+    "static/media/logo-lc.png": "/lucasichen_profolio/static/media/logo-lc.279f0eae50f2049d37fc.png",
+    "static/media/helvetica-neu.ttf": "/lucasichen_profolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/LaBelleAurore.woff2": "/lucasichen_profolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/logo-s.png": "/lucasichen_profolio/static/media/logo-s.bfc9f81846bda5218dab.png",
+    "static/media/logo_sub-l.png": "/lucasichen_profolio/static/media/logo_sub-l.6cdac607636a26d6e164.png",
+    "static/media/CoolveticaRg-Regular.woff2": "/lucasichen_profolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/lucasichen_profolio/index.html",
+    "main.3bee5265.css.map": "/lucasichen_profolio/static/css/main.3bee5265.css.map",
+    "main.b947c24c.js.map": "/lucasichen_profolio/static/js/main.b947c24c.js.map",
+    "787.ed93c80b.chunk.js.map": "/lucasichen_profolio/static/js/787.ed93c80b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f39c912e.css",
-    "static/js/main.dca85b40.js"
+    "static/css/main.3bee5265.css",
+    "static/js/main.b947c24c.js"
   ]
 }
